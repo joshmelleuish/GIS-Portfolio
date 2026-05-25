@@ -1,5 +1,5 @@
 [README_Portfolio.md](https://github.com/user-attachments/files/28203204/README_Portfolio.md)
-# GIS-Portfolio# GIS Portfolio — Josh Melleuish
+# GIS Portfolio — Josh Melleuish
 
 ## About Me
 
